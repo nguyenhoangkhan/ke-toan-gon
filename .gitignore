@@ -1,3 +1,4 @@
 *.exe
 version.json
 .DS_Store
+note.md
